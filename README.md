@@ -9,4 +9,4 @@
 * Flex
 * SCSS
 
-* [Ссылка на проект](https://cra7yy.github.io/russian-travel/)
+* [Ссылка на проект](https://cra7yy.github.io/score/)
